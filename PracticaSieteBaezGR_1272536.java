@@ -4,13 +4,6 @@ import java.util.Scanner;
 
 public class PracticaSieteBaezGR_1272536 {
     public static void main(String[] args) {
-
-//        System.out.println(" getName(): " + red.getName());
-//        System.out.println(" getSize(): " + red.getSize());
-//        System.out.println(" getSizeOnMeasure(): " + red.getSizeOnMeasure());
-//        System.out.println(" getRange(): " + red.getRange());
-//        System.out.println(" getRangeOnMeasure(): " + red.getRangeOnMeasure());
-//        System.out.println(" getDamage(): " + red.getDamage());
         Scanner scanner = new Scanner(System.in);
         char key;
         while(true){
